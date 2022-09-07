@@ -5,8 +5,8 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.flipkart</groupId>
-  <artifactId>login</artifactId>
-  <version>1.0.0_Release</version>
+  <artifactId>Payment</artifactId>
+  <version>2.0.0_Release</version>
 
   <name>login</name>
   <!-- FIXME change it to the project's website -->
