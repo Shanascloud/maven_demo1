@@ -6,7 +6,7 @@
 
   <groupId>com.flipkart</groupId>
   <artifactId>Payment</artifactId>
-  <version>2.0.0_Release</version>
+  <version>3.0.0_Release</version>
 
   <name>login</name>
   <!-- FIXME change it to the project's website -->
